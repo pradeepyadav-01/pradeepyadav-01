@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://portfolio-gules-zeta-32.vercel.app/">Portfolio</a> •
   <a href="https://pro-path.vercel.app/">Project</a> •
-  <a href="https://drive.google.com/file/d/14Lk9fHfyj6dNP4ZX1EtZwW-HF6-crZY_/view">Resume</a>
+  <a href="https://drive.google.com/file/d/1mi_btVJyiD62llWuXsjQ-xe2xs1_Z3RT/view">Resume</a>
 </p>
 
 ---
